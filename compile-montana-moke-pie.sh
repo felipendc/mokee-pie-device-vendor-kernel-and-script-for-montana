@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-# Some of the files from the link below has been modified by Vicyos (Felipe Ndc) to makee to make them to work on Mokee Room.
+# Some of the files from the link below has been modified by Vicyos (Felipe Ndc) to fix some build errors.
 
 #kernel: branch pie https://github.com/AsdMonio/android_kernel_motorola_msm8937 
 #device: https://github.com/PixelExperience-Devices/device_motorola_montana
