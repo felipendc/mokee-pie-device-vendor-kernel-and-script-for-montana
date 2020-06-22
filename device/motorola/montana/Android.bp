@@ -1,0 +1,6 @@
+subdirs = [
+    "health",
+    "vibrator",
+    "light",
+    "touch"
+]
