@@ -11,6 +11,10 @@
 sudo apt-get purge openjdk-* icedtea-* icedtea6-* && sudo apt-get update && sudo apt-get install openjdk-8-jdk && java -version
 
 
+# Try to compile with "LLVM 10.0.0" soon!
+# https://releases.llvm.org/download.html#10.0.0
+
+
 # Git lfs 
 git lfs install 
 
