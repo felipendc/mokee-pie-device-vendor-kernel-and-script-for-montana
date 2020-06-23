@@ -17,9 +17,7 @@ rm -r /packages/resources/MotoActions*
 rm -r /device/motorola/montana/MotoActions*
 
 
-# Things to test out:
-# Try to compile with "LLVM 10.0.0" soon!
-# https://releases.llvm.org/download.html#10.0.0
+# Test things out: None!
 
 
 # Git lfs 
